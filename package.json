@@ -1,0 +1,24 @@
+{
+  "name": "courses_ts",
+  "version": "1.0.0",
+  "description": "goit-advancedjs-hw-05",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.2.5"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashypilovdev/goit-advancedjs-hw-05.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ashypilovdev/goit-advancedjs-hw-05/issues"
+  },
+  "homepage": "https://github.com/ashypilovdev/goit-advancedjs-hw-05#readme"
+}
